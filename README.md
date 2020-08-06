@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hi there 👋
+
+Check out my latest Open Source Project: [AuthPass - Keepass compatible password manager](https://authpass.app/). Code also available on github at [authpass/authpass](https://github.com/authpass/authpass).
+
+# Portfolio & Blog
+
+Head over to https://codeux.design/ for my portfolio, blog and contact details.
+
 
 <!--
 **hpoul/hpoul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
