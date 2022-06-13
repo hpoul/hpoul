@@ -6,6 +6,10 @@ Check out my latest Open Source Project: [AuthPass - Keepass compatible password
 
 <a href="https://stackoverflow.com/users/109219/herbert-poul"><img src="https://stackoverflow.com/users/flair/109219.png?theme=clean" width="208" height="58" alt="profile for Herbert Poul at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Herbert Poul at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
+<br />
+
+<a href="https://profile.codersrank.io/user/hpoul"><img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=hpoul" width="500"></a>
+
 # Portfolio & Blog
 
 Head over to https://codeux.design/ for my portfolio, blog and contact details.
